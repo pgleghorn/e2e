@@ -1,6 +1,6 @@
 # Edit
 
-This is an edit from offshore.
+This is an edit from offshore..
 
 # Sample AEM project template
 
